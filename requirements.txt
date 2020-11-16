@@ -1,8 +1,8 @@
+tensorflow
+keras
 matplotlib
 numpy
 scipy
 pandas
 sklearn
 statsmodels
-tensorflow
-keras
